@@ -4,6 +4,13 @@ This repository contains the implementation of the GRAsm-Interpreter, a project 
 
 ---
 
+## **Repository Structure**
+
+- `GRA-Aufgabenstellung.jpg`: Task description for the GRAsm-Interpreter.
+- `grasm_interpreter.asm`: The Assembly code for the interpreter implementation.
+- `README.md`: Documentation for the project.
+---
+
 ## **Features**
 
 - Implements a virtual 64-bit register system:
